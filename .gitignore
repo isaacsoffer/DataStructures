@@ -1,0 +1,16 @@
+*.class
+C:\Users\ikeso\Isaac_Soffer_800755759\Yeshiva-University-CS
+.idea/
+DataStructures/project/stage1/Lectures.iml
+       C:\Users\ikeso\Isaac_Soffer_800755759\DataStructures\project\stage1\target\
+        DataStructures/project/stage2/Lectures (1).iml
+        DataStructures/project/stage2/target/
+        DataStructures/project/stage3/target/
+        Yeshiva-University-CS/
+
+         ../stage4/target/
+*.index
+target/
+*.lst
+*.txt
+*.com
